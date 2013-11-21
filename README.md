@@ -1,4 +1,4 @@
-pizza
+MakerSquare_08-pizza
 =====
 
 This is an assignment from the 8th day of MakerSquare 10 week course on web development.
